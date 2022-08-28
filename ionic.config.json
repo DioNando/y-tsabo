@@ -1,0 +1,7 @@
+{
+  "name": "y-tsabo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
